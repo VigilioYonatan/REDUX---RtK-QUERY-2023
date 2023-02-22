@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "nombre": "producto2",
+      "imagen": "https://w0.peakpx.com/wallpaper/335/867/HD-wallpaper-monstercat-logo-logo-monstercat-thumbnail.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "producto3",
+      "imagen": "https://w0.peakpx.com/wallpaper/335/867/HD-wallpaper-monstercat-logo-logo-monstercat-thumbnail.jpg"
+    },
+    {
+      "nombre": "Simon Battle",
+      "imagen": "https://f4.bcbits.com/img/a0704360192_10.jpg",
+      "id": 4
+    }
+  ]
+}
